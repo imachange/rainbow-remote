@@ -1,2 +1,4 @@
 Brown is not a color in the rainbow.
 Chagegit log
+
+Gray is not a color in the Rainbow.
